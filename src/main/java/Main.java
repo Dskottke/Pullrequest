@@ -5,4 +5,7 @@ public class Main {
 
         System.out.println("huhu");
     }
+    public void kaka(){
+        System.out.println("ich bin doof");
+    }
 }
