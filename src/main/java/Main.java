@@ -5,4 +5,10 @@ public class Main {
 
         System.out.println("huhu");
     }
+
+
+
+    public void lala (){
+        System.out.println("hihihihihihihihiu");
+    }
 }
