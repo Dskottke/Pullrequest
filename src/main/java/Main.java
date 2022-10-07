@@ -7,8 +7,15 @@ public class Main {
     }
 
 
-
+public void dididadada (){
+    System.out.println("didididididadadada");
+}
     public void lala (){
         System.out.println("hihihihihihihihiu");
+    }
+
+
+    public void lulu () {
+        System.out.println("lululululululululu");
     }
 }
